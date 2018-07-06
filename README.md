@@ -1,7 +1,7 @@
 # Predicting-Boston-Housing-Prices
 Machine Learning Engineer Nanodegree Project Udacity
 
-# Kaggle Cmpetition Link:
+# Kaggle Competition Link:
 https://www.kaggle.com/vikrishnan/boston-house-prices
 
 # Disclaimer:
